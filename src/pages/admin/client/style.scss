@@ -1,0 +1,12 @@
+// @import "../../../App.scss"
+
+
+.create-col-style{
+    background-color: white;
+    padding: 50px;
+
+    @media (min-width: 992px) {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
